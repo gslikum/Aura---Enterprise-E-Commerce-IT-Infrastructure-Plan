@@ -77,22 +77,22 @@ The block diagram below illustrates the relationship between the e-commerce cust
 
 ```mermaid
 graph TD
-    subgraph Public Internet
+    subgraph internet ["Public Internet"]
         Customer[Customer Web/Mobile Browser]
     end
 
-    subgraph Cloud Infrastructure (Hosted SaaS)
+    subgraph cloud ["Cloud Infrastructure (Hosted SaaS)"]
         Shopify[Shopify Plus Storefront & Payment Gateway]
         ERP[Katana ERP / Integration Middleware]
         RDS[(Amazon RDS - PostgreSQL Database)]
         HubSpot[HubSpot CRM & Support]
     end
 
-    subgraph Manufacturing Partners (External)
+    subgraph partners ["Manufacturing Partners (External)"]
         Supplier[Mattress Manufacturing Facility - API Integrations]
     end
 
-    subgraph Corporate Office (Two-Story Facility)
+    subgraph office ["Corporate Office (Two-Story Facility)"]
         FW[Next-Gen Firewall / Security Gateway]
         Switch[Managed PoE Switches]
         WAP[Wi-Fi 6 Access Points]
