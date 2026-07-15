@@ -1,21 +1,5 @@
 # Capstone Project: Project Plan Inception for Aura
 
-*Note to Student: This draft has been structured according to academic guidelines. When submitting, copy this text into Microsoft Word, set the font to Times New Roman (size 12), use double-spacing, and apply one-inch margins on all sides to meet the final submission requirements.*
-
----
-
-## Cover Page (SWS Format)
-
-**CIS599: Information Systems Capstone**
-
-**Project Plan Inception: Aura**
-
-**Prepared for:** [Insert Professor's Name]  
-**Prepared by:** [Insert Your Name]  
-**Date:** [Insert Date]  
-**Course Title:** Information Systems Capstone (CIS599)  
-**Institution:** Strayer University  
-
 ---
 
 ## 1. Company Background and Mission
