@@ -1,0 +1,237 @@
+<?xml version="1.0" ?>
+<Project xmlns="http://schemas.microsoft.com/project">
+    <Name>Part_2_Gantt_Chart.xml</Name>
+    <Title>90-Day E-Commerce Startup IT Project Plan</Title>
+    <StartDate>2026-07-15T08:00:00</StartDate>
+    <FinishDate>2026-10-12T17:00:00</FinishDate>
+    <ScheduleFromStart>1</ScheduleFromStart>
+    <Calendars>
+        <Calendar>
+            <UID>1</UID>
+            <Name>Standard</Name>
+            <IsBaseCalendar>1</IsBaseCalendar>
+        </Calendar>
+    </Calendars>
+    <Tasks>
+        <Task>
+            <UID>1</UID>
+            <ID>1</ID>
+            <Name>Phase 1: Planning and Site Design</Name>
+            <Start>2026-07-15T08:00:00</Start>
+            <Finish>2026-08-03T17:00:00</Finish>
+            <Duration>PT120H0M0S</Duration>
+            <OutlineLevel>1</OutlineLevel>
+            <Summary>1</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>2</UID>
+            <ID>2</ID>
+            <Name>Finalize office floorplans &amp; locate server room</Name>
+            <Start>2026-07-15T08:00:00</Start>
+            <Finish>2026-07-21T17:00:00</Finish>
+            <Duration>PT40H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>3</UID>
+            <ID>3</ID>
+            <Name>Select and purchase ISP business broadband</Name>
+            <Start>2026-07-22T08:00:00</Start>
+            <Finish>2026-07-28T17:00:00</Finish>
+            <Duration>PT40H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>4</UID>
+            <ID>4</ID>
+            <Name>Draft hardware bill of materials (BoM)</Name>
+            <Start>2026-07-29T08:00:00</Start>
+            <Finish>2026-08-04T17:00:00</Finish>
+            <Duration>PT40H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>5</UID>
+            <ID>5</ID>
+            <Name>Phase 2: Procurement and Cloud Provisioning</Name>
+            <Start>2026-08-05T08:00:00</Start>
+            <Finish>2026-09-01T17:00:00</Finish>
+            <Duration>PT160H0M0S</Duration>
+            <OutlineLevel>1</OutlineLevel>
+            <Summary>1</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>6</UID>
+            <ID>6</ID>
+            <Name>Order corporate laptops and office networking hardware</Name>
+            <Start>2026-08-05T08:00:00</Start>
+            <Finish>2026-08-11T17:00:00</Finish>
+            <Duration>PT40H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>7</UID>
+            <ID>7</ID>
+            <Name>Provision Shopify Plus sandbox database</Name>
+            <Start>2026-08-12T08:00:00</Start>
+            <Finish>2026-08-21T17:00:00</Finish>
+            <Duration>PT64H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>8</UID>
+            <ID>8</ID>
+            <Name>Integrate ERP middleware with partner APIs</Name>
+            <Start>2026-08-24T08:00:00</Start>
+            <Finish>2026-09-01T17:00:00</Finish>
+            <Duration>PT56H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>9</UID>
+            <ID>9</ID>
+            <Name>Phase 3: Physical Installation and Cabling</Name>
+            <Start>2026-09-02T08:00:00</Start>
+            <Finish>2026-10-06T17:00:00</Finish>
+            <Duration>PT200H0M0S</Duration>
+            <OutlineLevel>1</OutlineLevel>
+            <Summary>1</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>10</UID>
+            <ID>10</ID>
+            <Name>Install Cat6 Ethernet cabling in 2-story building</Name>
+            <Start>2026-09-02T08:00:00</Start>
+            <Finish>2026-09-15T17:00:00</Finish>
+            <Duration>PT80H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>11</UID>
+            <ID>11</ID>
+            <Name>Mount and configure Wi-Fi WAPs &amp; core switches</Name>
+            <Start>2026-09-16T08:00:00</Start>
+            <Finish>2026-09-29T17:00:00</Finish>
+            <Duration>PT80H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>12</UID>
+            <ID>12</ID>
+            <Name>Set up firewall security profiles and office VPN</Name>
+            <Start>2026-09-30T08:00:00</Start>
+            <Finish>2026-10-06T17:00:00</Finish>
+            <Duration>PT40H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>13</UID>
+            <ID>13</ID>
+            <Name>Phase 4: Integration and System Testing</Name>
+            <Start>2026-10-07T08:00:00</Start>
+            <Finish>2026-10-27T17:00:00</Finish>
+            <Duration>PT120H0M0S</Duration>
+            <OutlineLevel>1</OutlineLevel>
+            <Summary>1</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>14</UID>
+            <ID>14</ID>
+            <Name>End-to-end order routing testing (Shopify-ERP-Supplier)</Name>
+            <Start>2026-10-07T08:00:00</Start>
+            <Finish>2026-10-16T17:00:00</Finish>
+            <Duration>PT64H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>15</UID>
+            <ID>15</ID>
+            <Name>Test office network &amp; run firewall failover tests</Name>
+            <Start>2026-10-19T08:00:00</Start>
+            <Finish>2026-10-22T17:00:00</Finish>
+            <Duration>PT32H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>16</UID>
+            <ID>16</ID>
+            <Name>Configure and verify local NAS backups</Name>
+            <Start>2026-10-23T08:00:00</Start>
+            <Finish>2026-10-27T17:00:00</Finish>
+            <Duration>PT24H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>17</UID>
+            <ID>17</ID>
+            <Name>Phase 5: Go-Live and Training</Name>
+            <Start>2026-10-28T08:00:00</Start>
+            <Finish>2026-11-17T17:00:00</Finish>
+            <Duration>PT120H0M0S</Duration>
+            <OutlineLevel>1</OutlineLevel>
+            <Summary>1</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>18</UID>
+            <ID>18</ID>
+            <Name>Onboard 10 staff members on new hardware/software</Name>
+            <Start>2026-10-28T08:00:00</Start>
+            <Finish>2026-11-05T17:00:00</Finish>
+            <Duration>PT56H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>19</UID>
+            <ID>19</ID>
+            <Name>Launch e-commerce storefront for beta customers</Name>
+            <Start>2026-11-06T08:00:00</Start>
+            <Finish>2026-11-13T17:00:00</Finish>
+            <Duration>PT48H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+        <Task>
+            <UID>20</UID>
+            <ID>20</ID>
+            <Name>Conduct final project wrap-up and operational handoff</Name>
+            <Start>2026-11-16T08:00:00</Start>
+            <Finish>2026-11-17T17:00:00</Finish>
+            <Duration>PT16H0M0S</Duration>
+            <OutlineLevel>2</OutlineLevel>
+            <Summary>0</Summary>
+            <Manual>0</Manual>
+        </Task>
+    </Tasks>
+</Project>

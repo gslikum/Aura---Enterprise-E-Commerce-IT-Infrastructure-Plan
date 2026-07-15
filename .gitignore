@@ -1,0 +1,15 @@
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temp office files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Ignore Week 1 hobby project (focusing repository solely on Aura)
+Week 1/
