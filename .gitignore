@@ -14,6 +14,9 @@ Thumbs.db
 # Ignore Week 1 hobby project (focusing repository solely on Aura)
 Week 1/
 
-# Ignore chapter study notes
+# Ignore chapter study notes and working folders
 Week 2/Chapter_2_Notes.md
 Week 2/Chapter_3_Notes.md
+.agents/
+.obsidian/
+Week 3/
