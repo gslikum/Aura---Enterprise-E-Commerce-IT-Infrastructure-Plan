@@ -116,7 +116,10 @@ gantt
 ---
 
 ### 📅 Week 4: Business Requirements
-*🔓 Unlocks in Week 4*
+* **Core Proposal:** [Aura_Business_Requirements.docx](./Week%204/Aura_Business_Requirements.docx) — Formal Business Requirements Document (BRD) built according to the Strayer template, featuring Functional Scope Matrix, Non-functional Governance/Risk/Compliance standards, 5 Technical Integration Requirements, Risk Mitigation Matrix, and SWS Sources.
+* **Source File:** [Aura_Business_Requirements.md](./Week%204/Aura_Business_Requirements.md) — Source text in Markdown.
+* **Updated Gantt Chart (Excel):** [Part_2_Gantt_Chart.xlsx](./Week%204/Part_2_Gantt_Chart.xlsx) — Updated project tracker showing Phase 1 completed, Phase 2 in progress, and business requirement subtasks.
+* **Updated Gantt Chart (XML):** [Part_2_Gantt_Chart.xml](./Week%204/Part_2_Gantt_Chart.xml) — Updated MS Project XML file with task progress metadata.
 
 ---
 
